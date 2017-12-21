@@ -1,0 +1,15 @@
+{
+  "web": {
+    "baseURL":"http://phxm1bappd34:9001/TSOP",
+  "username":"admin",
+  "password":"secret"
+
+  },
+  "db":{
+    "host":"localhost",
+    "name":"addressbook",
+    "user":"root",
+    "password":""
+  }
+
+}
